@@ -1,2 +1,2 @@
-# text-classification-nlp
-Customer Complaints Classifier using NLP
+# Text Classification using TFIDF - AutoML
+This is a Customer Complaints Classifier using Natural Language Processing. The complaints have been classified into 5 categories as given in the dataset so that the complaints may be directed to the relevant customer care employee. H2O-AutoML has been used for choosing the appropriate model and hence when the best results came out using GradientBoostClassifier of scikit-learn, it has been used for the classification problem.
